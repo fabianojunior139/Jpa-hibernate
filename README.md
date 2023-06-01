@@ -1,6 +1,6 @@
 <h1 align="center">🎲 JPA/Hibernate</h1>
 <p>Este repositório contém a resolução de um exercício que foi passado durante a 5° Academia de Java da Atos.</p>
-<p>O objetivo desta aplicação é desenvolver um CRUD utilizando JPA/Hibernate utilizando as notações @OneToMany, @ManyToOne e @ManyToMany</p>
+<p>O objetivo desta aplicação é desenvolver um CRUD utilizando JPA/Hibernate utilizando as notações @OneToMany, @ManyToOne e @ManyToMany.</p>
 <p>As classes foram criadas de acordo com o esquema abaixo ↓
 
 ![image](https://github.com/fabianojunior139/jpa-hibernate/assets/100708547/6ccd7735-c232-4020-b2fd-0b50caea6af6)
